@@ -15,7 +15,7 @@ I am a driven high school graduate based in Jeddah, Saudi Arabia, deeply passion
 
 ### 🛠️ Tech Stack & Skills
 * **Languages & Frontend:** HTML5, CSS3, JavaScript (ES6)
-* **Core Interests:** AI Coding, Algorithm Design, System Architecture, Community-Driven Tech
+* **Core Interests:** Coding, Algorithm Design, System Architecture, Community-Driven Tech
 
 ---
 📫 How to reach me: 
